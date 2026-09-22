@@ -97,7 +97,7 @@ Python (Pandas), MySQL, SQLAlchemy, PyMySQL, SQL, Power BI and Modeling Tool.
 ## Team
 
 * [Carolina Dias](https://github.com/CarolDias18) 
-* [Leonor Couto] (https://github.com/Leonor2004)
+* [Leonor Couto](https://github.com/Leonor2004)
 * [Mariana Pereira](https://github.com/mfaria-p) 
 * [Simão Bernardo](https://github.com/simaozuzarte) 
 * [Sofia Fernandes]() 
