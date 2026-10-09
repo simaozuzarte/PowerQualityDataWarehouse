@@ -100,7 +100,7 @@ Python (Pandas), MySQL, SQLAlchemy, PyMySQL, SQL, Power BI and Modeling Tool.
 * [Leonor Couto](https://github.com/Leonor2004)
 * [Mariana Pereira](https://github.com/mfaria-p) 
 * [Simão Bernardo](https://github.com/simaozuzarte) 
-* [Sofia Fernandes]() 
+* [Sofia Fernandes](https://github.com/sofiagf04) 
 
 Carolina Dias, Leonor Couto, Mariana Pereira, Simão Bernardo, Sofia Fernandes.
 
